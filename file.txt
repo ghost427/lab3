@@ -1,0 +1,5 @@
+4
+WTB_saddle,1234567890,33.00,25.58,false
+26inTube,1234567891,7.00,5.58,true
+trueseatPost,1234567892,17.00,15.21,true
+truecarbonHandleBars42cm,1234567893,47.00,5.58,false
